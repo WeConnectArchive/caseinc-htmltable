@@ -1,3 +1,4 @@
-## Html Table
+HtmlTable
+=========
 
-Generates an html from arrays or a table model.
+Zf2 Module to generate html tables
