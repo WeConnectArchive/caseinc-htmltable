@@ -2,6 +2,7 @@
     "name": "case/htmltable",
     "description": "ZF2 module to generate html tables.",
     "homepage": "https://github.com/caseinc/htmltable",
+    "license": "MIT",
     "authors": [
         {
             "name": "Diego Sapriza",
